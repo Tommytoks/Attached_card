@@ -12,17 +12,17 @@
 .container{
   background-color: white;
     position: relative;
-    left: 600px;
-    top: 200px;
-    width: 250px;
-    height: 320px;
+    left: 670px;
+    top: 270px;
+    width: 270px;
+    height: 300px;
     border-radius: 6px;
 }
 .in{
 background-color: black;
 position: absolute;
-width: 250px;
-height: 100px;
+width: 270px;
+height: 120px;
 top: 0px;
 left: 0px;
 border-top-left-radius: 6px;
@@ -33,59 +33,59 @@ img{
     width: 110px;
     border: 4px;
     position: absolute;
-    left: 65px;
-    top: 55px;
+    left: 78px;
+    top: 60px;
 }
 .name{
    position: absolute;
-   left: 650px;
-   top: 380px;
-   font-size: ;
+   left: 713px;
+   top: 450px;
+   /* font-size: ; */
 }
 #nigeria{
     position: absolute;
-    left: 700px;
-    top: 405px;
+    left: 773px;
+    top: 475px;
  }
 .border{
-    width: 250px;
+    width: 270px;
     height: 2px;
     position: absolute;
     background-color: black;
     border: 1px;
-    top: 440px;
-    left: 600px;
+    top: 515px;
+    left: 670px;
 }
 .kay{
     position: absolute;
-    top: 460px;
-    left: 640px;
+    top: 525px;
+    left: 705px;
 }
 .kay1{
     position: absolute;
-    top: 460px;
-    left: 710px;
+    top: 525px;
+    left: 780px;
 } 
 .kay2{
     position: absolute;
-    top: 460px;
-    left: 780px;
+    top: 525px;
+    left: 870px;
 } 
 .follow{
     position: absolute;
-    top: 480px;
-    left: 630px;
+    top: 544px;
+    left: 699px;
     font-size: 12px;
 } 
 .follow2{
     position: absolute;
-    top: 480px;
-    left: 710px;
+    top: 544px;
+    left: 789px;
     font-size: 12px;
 } 
 .follow3{
     position: absolute;
-    top: 480px;
-    left: 780px;
+    top: 544px;
+    left: 865px;
     font-size: 12px;
 } 
